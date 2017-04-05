@@ -1,0 +1,30 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# eclipse settings
+.settings
+target
+.classpath
+.project
+/bin/
+/target/
+
+.idea
+kxlist_frontend.iml
+kxlist_frontend.iws
+kxlist_frontend.ipr
+src/main/webapp/resources/npm-debug.log
+node_modules
+src/main/webapp/resources/upload/
+debug.log
+.vscode
